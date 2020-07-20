@@ -1,0 +1,48 @@
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Console.exe.config
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Console.exe
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Console.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\obj\Debug\Console.exe
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\obj\Debug\Console.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Domain.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\EntityFramework.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Service.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Domain.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Service.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\EntityFramework.xml
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Data.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Console\bin\Debug\Data.pdb
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Console\bin\Debug\Console.exe.config
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Console\obj\Debug\Console.exe
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Console\obj\Debug\Console.pdb
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Console\bin\Debug\Console.exe
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Console\bin\Debug\Console.pdb
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Console\bin\Debug\Data.dll
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Console\bin\Debug\Domain.dll
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Console\bin\Debug\EntityFramework.dll
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Console\bin\Debug\Service.dll
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Console\bin\Debug\Data.pdb
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Console\bin\Debug\Domain.pdb
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Console\bin\Debug\Service.pdb
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Console\bin\Debug\EntityFramework.xml
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\dorsa\OneDrive\Documents\Twin\.Net\seance10&Final(FinaApp&correction)\MyFinance_step10\MyFinance_step10\Console\bin\Debug\Console.exe.config
+C:\Users\dorsa\OneDrive\Documents\Twin\.Net\seance10&Final(FinaApp&correction)\MyFinance_step10\MyFinance_step10\Console\bin\Debug\Console.exe
+C:\Users\dorsa\OneDrive\Documents\Twin\.Net\seance10&Final(FinaApp&correction)\MyFinance_step10\MyFinance_step10\Console\bin\Debug\Console.pdb
+C:\Users\dorsa\OneDrive\Documents\Twin\.Net\seance10&Final(FinaApp&correction)\MyFinance_step10\MyFinance_step10\Console\bin\Debug\Data.dll
+C:\Users\dorsa\OneDrive\Documents\Twin\.Net\seance10&Final(FinaApp&correction)\MyFinance_step10\MyFinance_step10\Console\bin\Debug\Domain.dll
+C:\Users\dorsa\OneDrive\Documents\Twin\.Net\seance10&Final(FinaApp&correction)\MyFinance_step10\MyFinance_step10\Console\bin\Debug\EntityFramework.dll
+C:\Users\dorsa\OneDrive\Documents\Twin\.Net\seance10&Final(FinaApp&correction)\MyFinance_step10\MyFinance_step10\Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dorsa\OneDrive\Documents\Twin\.Net\seance10&Final(FinaApp&correction)\MyFinance_step10\MyFinance_step10\Console\bin\Debug\Service.dll
+C:\Users\dorsa\OneDrive\Documents\Twin\.Net\seance10&Final(FinaApp&correction)\MyFinance_step10\MyFinance_step10\Console\bin\Debug\Data.pdb
+C:\Users\dorsa\OneDrive\Documents\Twin\.Net\seance10&Final(FinaApp&correction)\MyFinance_step10\MyFinance_step10\Console\bin\Debug\Domain.pdb
+C:\Users\dorsa\OneDrive\Documents\Twin\.Net\seance10&Final(FinaApp&correction)\MyFinance_step10\MyFinance_step10\Console\bin\Debug\Service.pdb
+C:\Users\dorsa\OneDrive\Documents\Twin\.Net\seance10&Final(FinaApp&correction)\MyFinance_step10\MyFinance_step10\Console\bin\Debug\EntityFramework.xml
+C:\Users\dorsa\OneDrive\Documents\Twin\.Net\seance10&Final(FinaApp&correction)\MyFinance_step10\MyFinance_step10\Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dorsa\OneDrive\Documents\Twin\.Net\seance10&Final(FinaApp&correction)\MyFinance_step10\MyFinance_step10\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\dorsa\OneDrive\Documents\Twin\.Net\seance10&Final(FinaApp&correction)\MyFinance_step10\MyFinance_step10\Console\obj\Debug\Console.exe
+C:\Users\dorsa\OneDrive\Documents\Twin\.Net\seance10&Final(FinaApp&correction)\MyFinance_step10\MyFinance_step10\Console\obj\Debug\Console.pdb
